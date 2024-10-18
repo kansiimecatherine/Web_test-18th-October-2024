@@ -1,0 +1,14 @@
+.box{
+    width: 300px;
+    margin: 10px;
+
+}
+.bo{
+    width: 300px;
+    margin: 10px;
+    background-color: green;
+    color: #fff;
+}
+form{
+    background-color: rgba(68, 68, 68, 0.5);
+}

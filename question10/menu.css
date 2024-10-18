@@ -1,0 +1,12 @@
+.menu{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.food{
+    transform: background0.3s ease;
+    flex-wrap: wrap;
+
+}
+.food:hover{
+    transform: scale(1.05);
+}
